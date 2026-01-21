@@ -8,7 +8,7 @@ I'm a Java and android developer who enjoys building real-world applications. Cu
 - Problem Solving
 
 ## 🚀 Current Project
-- Personal Finance Tracker (Java --> Android)
+- Console Based Virtual Stock Market App
 
 ## 🎯 Goals<br>
 - Buid useful apps
