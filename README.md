@@ -4,7 +4,9 @@ I'm a Full-Stack Web developer who enjoys building real-world applications.<br><
 ## 🛠 Skills
 - HTML & CSS
 - JavaScript
-- Node.js Backend
+- Node.js
+- Express.js
+- MongoDB
 - React
 
 ## 🚀 Current Project
