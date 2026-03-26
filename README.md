@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Vihan
-I'm a Full-Stack Web developer who enjoys building real-world applications.<br><br>
+I'm a MERN-Stack Web developer who enjoys building real-world applications.<br><br>
 
 # About Me:
 ## 🛠 Skills
