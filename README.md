@@ -11,7 +11,7 @@ I'm a MERN-Stack Web developer who enjoys building real-world applications.<br><
 - React
 
 ## 🚀 Current Project
-- Virtual Stock Market Training Website
+- Hotel Management Web App
 
 ## 🎯 Goals<br>
 - Buid useful Websites
