@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Vihan
-I'm a MERN-Stack Web developer who enjoys building real-world applications.<br><br>
+I'm a Full-Stack Web developer who enjoys building real-world applications.<br><br>
 
 # About Me:
 ## 🛠 Skills
@@ -9,9 +9,7 @@ I'm a MERN-Stack Web developer who enjoys building real-world applications.<br><
 - Express.js
 - MongoDB
 - React
-
-## 🚀 Current Project
-- Hotel Management Web App
+- Next.js
 
 ## 🎯 Goals<br>
 - Buid useful Websites
